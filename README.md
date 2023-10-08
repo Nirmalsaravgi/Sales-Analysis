@@ -9,6 +9,7 @@ Missing values and duplicates were removed from the dataset to ensure data integ
 # Exploratory Data Analysis
 ## Yearly Total Sales 
 Total sales (retail and warehouse combined) were calculated for each year and visualized in a stacked bar chart. The chart shows the trend in sales over the years.
+
 ![total year sale](https://github.com/Nirmalsaravgi/Sales-Analysis/assets/89398135/31cec9d7-fb2c-45be-8c38-5ac8a488d7d9)
 
 ## Top Suppliers
