@@ -31,7 +31,7 @@ The contribution of each item type to overall sales was evaluated. Understanding
 ![Screenshot 2023-10-08 195351](https://github.com/Nirmalsaravgi/Sales-Analysis/assets/89398135/9a295e47-1e85-4959-a79c-7f0313980f5a)
 
 
-## Recommendations
+# Recommendations
 Strengthen Supplier Relationships: Develop strong relationships with the top 5 suppliers to ensure a consistent supply of high-selling products.
 
 Focus on Top-Selling Items: Concentrate marketing efforts and promotions on the top 10 best-selling items to further boost sales.
